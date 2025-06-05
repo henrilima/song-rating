@@ -245,7 +245,7 @@ class App extends React.Component<{}, AppState> {
                     style={{
                         marginTop: 32,
                         textAlign: "center",
-                        color: '#f2f2f2'
+                        color: "#f2f2f2",
                     }}
                 >
                     Song Rater Settings:
