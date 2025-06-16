@@ -16,7 +16,7 @@ Rate your favorite tracks directly on Spotify with an intuitive and lightweight 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/henrilima/music-rater
+git clone https://github.com/henrilima/song-rater
 ```
 
 2. Enter the folder and run:
